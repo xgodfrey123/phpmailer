@@ -1,3 +1,7 @@
+
+sending mail on localhost will not work, figure out why ?
+because it needs SMTP
+
 <?php
 
 require_once "mailer.php";
